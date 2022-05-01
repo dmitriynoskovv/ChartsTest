@@ -3864,16 +3864,6 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-effector-react@^22.0.6:
-  version "22.0.6"
-  resolved "https://registry.yarnpkg.com/effector-react/-/effector-react-22.0.6.tgz#e6651febfc124a8adf550deb950fbd03dfb9ec4e"
-  integrity sha512-uzVjrh5S94eMeihu8N8eQvLFnZA56VT00etMVovnSyZxujo0f8gtZZebIYOKyYFkGcYUyfiOHRRzBhYpIfAIhg==
-
-effector@^22.3.0:
-  version "22.3.0"
-  resolved "https://registry.yarnpkg.com/effector/-/effector-22.3.0.tgz#c743dd7d934ec3f9a2efac76a563cd0281bc4201"
-  integrity sha512-Nh7IXn8U4emq8YtAZf2+y2Rs6n4W/gjPaNZpZLFOXOIAsRZSNBFjtK1vHTWNKxxmNFZOaZN6XUXdT8FDs0mAdQ==
-
 ejs@^3.1.6:
   version "3.1.7"
   resolved "https://registry.yarnpkg.com/ejs/-/ejs-3.1.7.tgz#c544d9c7f715783dd92f0bddcf73a59e6962d006"
@@ -7308,6 +7298,11 @@ react-app-polyfill@^3.0.0:
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
 
+react-chartjs-2@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/react-chartjs-2/-/react-chartjs-2-4.1.0.tgz#2a123df16d3a987c54eb4e810ed766d3c03adf8d"
+  integrity sha512-AsUihxEp8Jm1oBhbEovE+w50m9PVNhz1sfwEIT4hZduRC0m14gHWHd0cUaxkFDb8HNkdMIGzsNlmVqKiOpU74g==
+
 react-dev-utils@^12.0.1:
   version "12.0.1"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-12.0.1.tgz#ba92edb4a1f379bd46ccd6bcd4e7bc398df33e73"
@@ -8637,11 +8632,6 @@ wbuf@^1.1.0, wbuf@^1.7.3:
   integrity sha512-O84QOnr0icsbFGLS0O3bI5FswxzRr8/gHwWkDlQFskhSPryQXvrTMxjxGP4+iWYoauLoBvfDpkrOauZ+0iZpDA==
   dependencies:
     minimalistic-assert "^1.0.0"
-
-web-vitals@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-2.1.4.tgz#76563175a475a5e835264d373704f9dde718290c"
-  integrity sha512-sVWcwhU5mX6crfI5Vd2dC4qchyTqxV8URinzt25XqVh+bHEPGH4C3NPrNionCP7Obx59wrYEbNlw4Z8sjALzZg==
 
 webidl-conversions@^4.0.2:
   version "4.0.2"
