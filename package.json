@@ -24,7 +24,7 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://dmitriynoskovv.github.io/ChartsTest",
+  "homepage": "https://dmitriynoskovv.github.io/ChartsTest/",
   "eslintConfig": {
     "extends": [
       "react-app",
